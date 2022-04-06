@@ -1,0 +1,14 @@
+|  **Campo**  |  **Tipo**  |  **Restrições**|  **valor**  |  **default**  |
+|---|---|---|
+|  Cep  |  caixa de texto  |  |  |
+|  Estado  |  caixa de texto  |  |  |     
+|  cidade  |  caixa de texto  |  |  |  
+|  Rua  |  caixa de texto  |  |  |       
+|  Número  |  caixa de texto  |  |  |  
+|  Bairro  |  caixa de texto  |  |  |  
+|  Capacidade max  |  caixa de texto  |  |  |  
+|  Tamanho do local  |  caixa de texto  |  |  |  
+|  Banheiros  |  caixa de texto  |  |  |  
+|  fotos do local  |  fotos  |  |  |
+
+
